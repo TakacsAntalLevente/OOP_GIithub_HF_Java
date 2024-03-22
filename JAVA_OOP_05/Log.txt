@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------|
+2024.03.22                                                                                |
+                                                                                          |
+*Book_class*                                                                              |
+                                                                                          |  
++Added 2 constructor                                                                      |
++DisplayInfo -> toString                                                                  |
++comparePublicationDate Added                                                             |
+                                                                                          |
+------------------------------------------------------------------------------------------|
+                                                                                          |
+*Homework_Run*                                                                            |
+                                                                                          |
++Added 2 "book" using the 2 constructor, and display the results with the toString method.|
+                                                                                          |
+------------------------------------------------------------------------------------------|
+                                                                                          |
+*Date_managment (java 8)*                                                                 |
+                                                                                          |
+java.time.LocalDate currentDate = java.time.LocalDate.now();                              |
+int year = currentDate.getYear();                                                         |
+                                                                                          |
+------------------------------------------------------------------------------------------|
